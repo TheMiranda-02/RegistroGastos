@@ -1,0 +1,70 @@
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\RegistroGastos\RegistroGastos\bin\Debug\RegistroGastos.exe.config
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\RegistroGastos\RegistroGastos\bin\Debug\RegistroGastos.exe
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\RegistroGastos\RegistroGastos\bin\Debug\RegistroGastos.pdb
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.csproj.AssemblyReference.cache
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.AgregarCategoriaForm.resources
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.AgregarGastoForm.resources
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.Properties.Resources.resources
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.VerGastosForm.resources
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.csproj.GenerateResource.cache
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.csproj.CoreCompileInputs.cache
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.exe
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.pdb
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.EditarGasto.resources
+C:\Users\96132\OneDrive\Documentos\SextoSemestre\Sistemas de Informacion\RegistroGastos\RegistroGastos\bin\Debug\RegistroGastos.exe.config
+C:\Users\96132\OneDrive\Documentos\SextoSemestre\Sistemas de Informacion\RegistroGastos\RegistroGastos\bin\Debug\RegistroGastos.exe
+C:\Users\96132\OneDrive\Documentos\SextoSemestre\Sistemas de Informacion\RegistroGastos\RegistroGastos\bin\Debug\RegistroGastos.pdb
+C:\Users\96132\OneDrive\Documentos\SextoSemestre\Sistemas de Informacion\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.csproj.AssemblyReference.cache
+C:\Users\96132\OneDrive\Documentos\SextoSemestre\Sistemas de Informacion\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.AgregarCategoriaForm.resources
+C:\Users\96132\OneDrive\Documentos\SextoSemestre\Sistemas de Informacion\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.AgregarGastoForm.resources
+C:\Users\96132\OneDrive\Documentos\SextoSemestre\Sistemas de Informacion\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.EditarGasto.resources
+C:\Users\96132\OneDrive\Documentos\SextoSemestre\Sistemas de Informacion\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.Properties.Resources.resources
+C:\Users\96132\OneDrive\Documentos\SextoSemestre\Sistemas de Informacion\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.VerGastosForm.resources
+C:\Users\96132\OneDrive\Documentos\SextoSemestre\Sistemas de Informacion\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.csproj.GenerateResource.cache
+C:\Users\96132\OneDrive\Documentos\SextoSemestre\Sistemas de Informacion\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.csproj.CoreCompileInputs.cache
+C:\Users\96132\OneDrive\Documentos\SextoSemestre\Sistemas de Informacion\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.exe
+C:\Users\96132\OneDrive\Documentos\SextoSemestre\Sistemas de Informacion\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.pdb
+C:\Users\96132\OneDrive\Documentos\SextoSemestre\Sistemas de Informacion\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.EliminarCategoriaForm.resources
+C:\Users\96132\Downloads\RegistroGastos\RegistroGastos\bin\Debug\RegistroGastos.exe.config
+C:\Users\96132\Downloads\RegistroGastos\RegistroGastos\bin\Debug\RegistroGastos.exe
+C:\Users\96132\Downloads\RegistroGastos\RegistroGastos\bin\Debug\RegistroGastos.pdb
+C:\Users\96132\Downloads\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.csproj.AssemblyReference.cache
+C:\Users\96132\Downloads\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.AgregarCategoriaForm.resources
+C:\Users\96132\Downloads\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.AgregarGastoForm.resources
+C:\Users\96132\Downloads\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.EditarGasto.resources
+C:\Users\96132\Downloads\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.EliminarCategoriaForm.resources
+C:\Users\96132\Downloads\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.Properties.Resources.resources
+C:\Users\96132\Downloads\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.VerGastosForm.resources
+C:\Users\96132\Downloads\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.csproj.GenerateResource.cache
+C:\Users\96132\Downloads\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.csproj.CoreCompileInputs.cache
+C:\Users\96132\Downloads\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.exe
+C:\Users\96132\Downloads\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.pdb
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\RegistroGastos\RegistroGastos\RegistroGastos\bin\Debug\RegistroGastos.exe.config
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\RegistroGastos\RegistroGastos\RegistroGastos\bin\Debug\RegistroGastos.exe
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\RegistroGastos\RegistroGastos\RegistroGastos\bin\Debug\RegistroGastos.pdb
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\RegistroGastos\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.csproj.AssemblyReference.cache
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\RegistroGastos\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.AgregarCategoriaForm.resources
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\RegistroGastos\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.AgregarGastoForm.resources
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\RegistroGastos\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.EditarGasto.resources
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\RegistroGastos\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.EliminarCategoriaForm.resources
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\RegistroGastos\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.Properties.Resources.resources
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\RegistroGastos\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.VerGastosForm.resources
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\RegistroGastos\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.csproj.GenerateResource.cache
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\RegistroGastos\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.csproj.CoreCompileInputs.cache
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\RegistroGastos\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.exe
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\RegistroGastos\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.pdb
+C:\Users\96132\OneDrive\Documentos\SextoSemestre\Sistemas de Informacion\RegistroGastos\RegistroGastos\RegistroGastos\bin\Debug\RegistroGastos.exe.config
+C:\Users\96132\OneDrive\Documentos\SextoSemestre\Sistemas de Informacion\RegistroGastos\RegistroGastos\RegistroGastos\bin\Debug\RegistroGastos.exe
+C:\Users\96132\OneDrive\Documentos\SextoSemestre\Sistemas de Informacion\RegistroGastos\RegistroGastos\RegistroGastos\bin\Debug\RegistroGastos.pdb
+C:\Users\96132\OneDrive\Documentos\SextoSemestre\Sistemas de Informacion\RegistroGastos\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.csproj.AssemblyReference.cache
+C:\Users\96132\OneDrive\Documentos\SextoSemestre\Sistemas de Informacion\RegistroGastos\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.AgregarCategoriaForm.resources
+C:\Users\96132\OneDrive\Documentos\SextoSemestre\Sistemas de Informacion\RegistroGastos\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.AgregarGastoForm.resources
+C:\Users\96132\OneDrive\Documentos\SextoSemestre\Sistemas de Informacion\RegistroGastos\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.EditarGasto.resources
+C:\Users\96132\OneDrive\Documentos\SextoSemestre\Sistemas de Informacion\RegistroGastos\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.EliminarCategoriaForm.resources
+C:\Users\96132\OneDrive\Documentos\SextoSemestre\Sistemas de Informacion\RegistroGastos\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.Properties.Resources.resources
+C:\Users\96132\OneDrive\Documentos\SextoSemestre\Sistemas de Informacion\RegistroGastos\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.VerGastosForm.resources
+C:\Users\96132\OneDrive\Documentos\SextoSemestre\Sistemas de Informacion\RegistroGastos\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.csproj.GenerateResource.cache
+C:\Users\96132\OneDrive\Documentos\SextoSemestre\Sistemas de Informacion\RegistroGastos\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.csproj.CoreCompileInputs.cache
+C:\Users\96132\OneDrive\Documentos\SextoSemestre\Sistemas de Informacion\RegistroGastos\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.exe
+C:\Users\96132\OneDrive\Documentos\SextoSemestre\Sistemas de Informacion\RegistroGastos\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.pdb
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\RegistroGastos\RegistroGastos\obj\Debug\RegistroGastos.EliminarCategoriaForm.resources
